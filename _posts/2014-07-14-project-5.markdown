@@ -1,11 +1,15 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: Handwritten digit Captcha
+date: 2019-07-20
+img: captcha_sample.gif
+alt: captcha_sample
+project-date: July 2019
+category: CNN, Deep Learning, MNIST, Data augmentation, Image recognition, HTML, JS, CSS
+short-description: Simple and effective solution of captcha which can accurately validate captcha.
+description: A simple solution for replacing traditional captcha with a handwritten digit recognition using deep learning model.
+solution: MNIST dataset is used to train a simple CNN based model, the model is then saved and further exposed as a REST api using Flask. With javascript code input image is obtained and processed.
+results: Test accuracy of 90% was obtained on MNIST dataset, 28x28 sized images were used with the CNN based model.
+github_url: https://github.com/prabhupad26/mnist_flask_solution
 ---

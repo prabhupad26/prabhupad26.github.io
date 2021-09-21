@@ -12,28 +12,43 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>{{ post.title }}</h2>
+                            <h3>{{ post.title }}</h3>
                             <hr class="star-primary">
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}" width="45%">
                             {% if post.description %}
+                                <strong><h5 class="custom_float">Objective : </h5></strong>
                                 <p>{{ post.description }}</p>
+                            {% endif %}
+                            {% if post.solution %}
+                                <strong><h5 class="custom_float">Solution : </h5></strong>
+                                <p>{{ post.solution }}</p>
+                            {% endif %}
+                            {% if post.results %}
+                                <strong><h5 class="custom_float">Results : </h5></strong>
+                                <p>{{ post.results }}</p>
                             {% endif %}
                             <ul class="list-inline item-details">
                                 {% if post.client %}
                                     <li>Client:
-                                        <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
+                                        <strong>{{ post.client }}
                                         </strong>
                                     </li>
                                 {% endif %}
                                 {% if post.project-date %}
                                     <li>Date:
-                                        <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
+                                        <strong>{{ post.project-date }}
                                         </strong>
                                     </li>
                                 {% endif %}
                                 {% if post.category %}
-                                    <li>Service:
-                                        <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                    <li>Category:
+                                        <strong>{{ post.category }}
+                                        </strong>
+                                    </li>
+                                {% endif %}
+                                {% if post.github_url %}
+                                    <li>Github repo:
+                                        <strong><a href="{{ post.github_url }}">Project URL</a>
                                         </strong>
                                     </li>
                                 {% endif %}

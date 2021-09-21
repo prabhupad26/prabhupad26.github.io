@@ -1,11 +1,15 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: submarine.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: Speech2Text UI and Fine Tuning Wav2Vec2 for English Auto Speech Recognition
+date: 2019-07-20
+img: speech2text_2.gif
+alt: speech2text_2
+project-date: July 2021
+category: Huggingface Transformers, Transformers, Audio Data Processing, SpeechToText, Self Supervised, HTML, JS, CSS
+short-description: Generate a transcription of a voice recording which is stored in a sound file
+description: Generate a transcription of a voice recording which is stored in a sound file
+solution: A pretrained model - wav2vec 2.0 is loaded which was trained on 50 hours of unlabeled speech recordings from different authors along with different background noises, in this project I have explored two approaches, one involve finetuning of pretrained model and another without any finetuning.
+results: Word Error rate is used as the metric to measure the performance of the model on testing dataset, which is found to be as low as 8.3 %
+github_url: https://github.com/prabhupad26/100daysofML/tree/main/DAY26-31%20FAIRSeq2Seq%20Speech%20to%20text
 ---

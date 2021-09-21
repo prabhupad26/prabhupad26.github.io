@@ -229,6 +229,10 @@ section.success {
     opacity: 1;
 }
 
+.custom_float{
+    float: left;
+}
+
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
     position: absolute;
     top: 50%;
@@ -311,6 +315,10 @@ section.success {
     border-bottom: 1px solid #eee;
 }
 
+form label{
+    color: #fff;
+  }
+
 .floating-label-form-group input,
 .floating-label-form-group textarea {
     z-index: 1;
@@ -355,11 +363,6 @@ section.success {
 .floating-label-form-group-with-focus label {
     color: #18bc9c;
 }
-
-.form-control::-webkit-input-placeholder { color: white; }
-.form-control:-moz-placeholder { color: white; }
-.form-control::-moz-placeholder { color: white; }
-.form-control:-ms-input-placeholder { color: white; }
 
 form .row:first-child .floating-label-form-group {
     border-top: 1px solid #eee;
@@ -494,3 +497,8 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+
+::placeholder {
+    color: white;
+  }
