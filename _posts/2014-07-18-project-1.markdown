@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 title: Newsgroup classification (with labeled data) inference pipeline with AWS Sagemaker
 date: 2021-05-20
-img: news_icon.png
+img: news_icon.jpg
 alt: news_icon
 project-date: May 2021
 category: NLP, classification, labelled dataset
