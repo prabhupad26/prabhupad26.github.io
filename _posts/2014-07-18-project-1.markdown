@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 1
 title: Newsgroup classification (with labeled data) inference pipeline with AWS Sagemaker
 date: 2021-05-20
 img: news_icon.png
