@@ -1,6 +1,6 @@
 ---
 layout: default
 modal-id: 7
-title: My Resume
+title: Resume
 pdf: PrabhupadPradhanResume.pdf
 ---
