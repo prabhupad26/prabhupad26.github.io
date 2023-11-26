@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="677d2a73-c07c-4740-81e2-716197ba2483" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/certifications.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/certifications.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/modals.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/modals.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/portfolio_grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/portfolio_grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-13-project-6.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-07-13-project-6.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-14-project-5.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-07-14-project-5.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-15-project-4.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-07-15-project-4.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-16-project-3.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-07-16-project-3.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-07-17-project-2.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-18-project-1.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-07-18-project-1.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yPCkRtPmEC7whFdd7njQTzBxno" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../learning_projects/100daysofML/DAY19-25 CLIP/text_to_img_ui" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="677d2a73-c07c-4740-81e2-716197ba2483" name="Changes" comment="" />
+      <created>1632143981117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632143981117</updated>
+    </task>
+    <servers />
+  </component>
+</project>

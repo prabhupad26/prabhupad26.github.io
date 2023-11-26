@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 4
+title: Flower type prediction with deep learning
+date: 2019-07-20
+img: aipnd_sample.png
+alt: aipnd_sample
+project-date: July 2019
+category: CNN, Deep Learning, vgg16, Data augmentation, Image recognition
+short-description: A command line application for fine tuning a pretrained vgg 16 model for image recognition task which predicts the flower type for input flower image.
+description: Train an image classifier to recognize different species of flowers, with input image of size 224 x 224 .
+solution: A neural network is created using a pretrained vgg16 model with its fully connected layer replaced with another set of fully connected layer with 102 outputs as we have to predict out of 102 different species of flowers.
+results: The training results were achieved with the help of google colab GPU which took around 10 minutes to complete for processing a set of 1500 number of 224 x 224 sized images achieving an accuracy of 83 % while training and a testing accuracy of 86 %. This results were improved after considering data augmentation (rotating and resizing) the images during the preprocessing step.
+github_url: https://github.com/prabhupad26/aipnd_prabhu
+---

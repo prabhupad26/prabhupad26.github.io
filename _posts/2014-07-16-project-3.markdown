@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 3
+title: Effective review comments sentiment predictor
+date: 2021-07-20
+img: ui_demo_gif.gif
+alt: ui_demo_gif
+project-date: July 2021
+category: NLP, sentiment prediction, LSTMs
+short-description: Aspect based sentiment analysis model which has the capability to effictively predict the sentiment of a review comment from pre defined categories - positive, negative and neutral
+description: Build an aspect based sentiment analysis model which will be able to predict the sentiment of a review comment from pre defined categories positive, negative and neutral.
+solution: LSTM neural network is trained with the input word vectors and target(aspect) text. The word embedding is created from the pretrained GloVe Twitter Dataset with 25/125/200 dimension size. 
+results: The training, testing accuracy comparison with a regular LSTM and Aspect based LSTM suggest that the Aspect based LSTM outperforms a regular LSTM and hend concludes the fact that on providing target text to the input the model performs better.
+github_url: https://github.com/prabhupad26/100daysofML/tree/main/DAY32-36%20Target%20Based%20Sentiment%20Analysis%20UI/app/src
+---
