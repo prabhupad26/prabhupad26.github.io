@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 7
+title: A fully GKE managed Sentiment analysis application with language model training and inference schemes automated using github actions
+date: 2023-11-01
+img: sa_app_ss.png
+alt: sa_app_ss
+project-date: November 2023
+category: NLP, classification, labelled dataset, kuberneters, docker, google cloud platform, google kubernetes engine
+short-description: A fully GKE managed Sentiment analysis application with language model training and inference schemes automated using github actions
+description: Company ABC. seeks to develop a real-time Twitter sentiment analysis system with a strong emphasis on scalability, high availability, and continuous machine learning model improvement. This system will process Twitter data in real-time, ensuring uninterrupted production even under high loads. Key objectives include the deployment of updated models without downtime, efficient data handling, monitoring, maintainability. The system will also offer a user-friendly interface.
+solution: The solution was leveraged on modern tools and technologies to build a robust real-time Twitter sentiment analysis system. We utilize GitHub Actions for streamlined code integration and deployment, harness the power of a Kubernetes cluster deployed on Google Kubernetes Engine for scalability, and employ Python as the primary coding language. The heart of our system is a fine-tuned BERT language model, renowned for its accuracy in classifying tweets into positive and negative sentiments. This combination of cutting-edge tools and a powerful machine learning model ensures seamless scalability, high availability, and continuous model improvement. Our solution not only meets the demands of real-time Twitter data processing but also provides valuable insights to users.
+results: F1-Score of ~81% achieved on testing dataset, which is equivalent to ~ 240 times a document category is correctly predicted out of 300 documents (Test data).
+github_url: https://github.com/prabhupad26/aws-sm-inference-pipline-tutorial
+---
